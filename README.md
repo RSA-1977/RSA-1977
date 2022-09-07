@@ -1,4 +1,3 @@
 - Hi, I’m @RSA-1977
 - I’m interested in DevOps
-- I’m currently building a game in Unity
 - My alt github is Codymilton12
