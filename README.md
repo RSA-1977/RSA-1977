@@ -1,3 +1,3 @@
-- Hi, I’m @RSA-1977
-- I’m interested in DevOps
+- Hi, I’m Cody Blanchard
+- I’m currently studying Cybersecurity at RIT
 - My alt github is Codymilton12
