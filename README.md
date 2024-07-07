@@ -5,7 +5,7 @@ I'm Cody Blanchard, a cybersecurity enthusiast currently pursuing my degree at R
 
 ## Get in Touch
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). You can also check out my alternate GitHub account at [Codymilton12](https://github.com/Codymilton12). Let's connect and discuss cybersecurity, Kubernetes, or any exciting projects!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). Let's connect and discuss cybersecurity, Kubernetes, or any exciting projects!
 
 ## 👨‍💻 Languages I Work With
 [![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
