@@ -11,7 +11,6 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). Let's
 [![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
 [![Markdown clickable image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://www.mysql.com/)
 [![Markdown clickable image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")](https://html.com/html5/)
-[![Markdown clickable image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")](https://en.wikipedia.org/wiki/CSS)
 [![Markdown clickable image](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white "YAML")](https://yaml.org/)
 [![Markdown clickable image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")](https://en.wikipedia.org/wiki/C_(programming_language))
 
