@@ -19,8 +19,6 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). Let's
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white "SQL")](https://en.wikipedia.org/wiki/SQL)
 [![ASM x86](https://img.shields.io/badge/ASM_x86-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white "ASM x86")](https://en.wikipedia.org/wiki/X86_assembly_language)
 
-Is this what you had in mind?
-
 ## 💻 Operation Systems I Can Navigate
 [![Markdown clickable image](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=red-hat&logoColor=white "Red Hat Enterprise Linux")](https://www.redhat.com/)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows Server")](https://www.microsoft.com/en-us/windowsserver)
