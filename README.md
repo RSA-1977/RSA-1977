@@ -1,7 +1,10 @@
 # Hi there, I’m Cody Blanchard! 👋
 ## About Me
 
-I'm Cody Blanchard, a cybersecurity enthusiast currently pursuing my degree at RIT. I enjoy diving deep into Kubernetes and Traefik, and I'm eager to contribute to secure and efficient technology solutions.
+Cybersecurity and DevOps professional dedicated to creating robust, secure solutions. I combine my skills in automation, cloud infrastructure, and compliance to design systems that safeguard data while ensuring seamless operations.
+
+Check out my Homelab:
+https://rsa-1977.github.io
 
 ## Get in Touch
 
