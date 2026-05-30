@@ -1,4 +1,3 @@
-# Hi there, I’m Cody Blanchard!
 ## About Me
 
 Cybersecurity and DevOps professional who stays close to the keyboard — writing automation, enforcing STIG compliance, and architecting cloud infrastructure — owning projects end-to-end and driving solutions from conception to deployment.
