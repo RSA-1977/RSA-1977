@@ -1,14 +1,14 @@
-# Hi there, I’m Cody Blanchard! 👋
+# Hi there, I’m Cody Blanchard!
 ## About Me
 
-Cybersecurity and DevOps professional dedicated to creating robust, secure solutions. I combine my skills in automation, cloud infrastructure, and compliance to design systems that safeguard data while ensuring seamless operations.
+Cybersecurity and DevOps professional who stays close to the keyboard — writing automation, enforcing STIG compliance, and architecting cloud infrastructure — owning projects end-to-end and driving solutions from conception to deployment.
 
 Check out my Homelab:
 https://rsa-1977.github.io
 
 ## Get in Touch
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). Let's connect and discuss cybersecurity, Kubernetes, or any exciting projects!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rsa1977). Let's connect and discuss Cybersecurity, Kubernetes, or any exciting projects!
 
 ## 👨‍💻 Languages I Work With
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
